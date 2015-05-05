@@ -23,5 +23,5 @@ later on, support for more languages will be added.
 
 This subsection contains code from 
 https://cranklin.wordpress.com/2012/05/10/how-to-make-a-simple-computer-virus-with-python/
-without their consent. But he or she is due some respect.
+without their consent. But he is due some respect.
 """
