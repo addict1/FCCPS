@@ -1,2 +1,2 @@
 # FCCPS
-Python project thingay
+Python project thingay. More precisely, a "virus" that is module based. It is made from python and perhaps throughout development other languages may be added. The point is you start with a single master file and choose what you want to enable. This will hopefully include a "min" version for the light hearted and a heavier build for those who really dare. A debug mode is on par. I will keep a file of modlules that are being worked on, even basic ideas. I don't know yet I created this repository 4 minutes ago.
