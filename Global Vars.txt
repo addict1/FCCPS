@@ -14,4 +14,3 @@ multi(var1) -- Function to use multithreading
 search(path) -- Function to find editable files
 	filestoinfect = [] -- Array of files to infect
 	filelist = os.listdir(path) -- Temporary -- Files in current directory
-	
